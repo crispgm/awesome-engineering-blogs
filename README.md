@@ -1,6 +1,6 @@
 # Awesome Engineering Blogs
 
-## Engineering Blogs of Worldwide Companies
+## Engineering Blogs in English
 
 * [Engineering Blog | Facebook Code](https://code.facebook.com/posts)
 * [Engineering | Twitter Blogs](https://blog.twitter.com/engineering)
@@ -13,6 +13,10 @@
 * [Code as Craft, Etsy's Engineering Blog](https://codeascraft.com/)
 * [Engineering at IFTTT](http://engineering.ifttt.com/)
 
-## Engineering Blogs of Chinese Companies
+## Engineering Blogs in Chinese
 
+* [Baidu EFE](http://efe.baidu.com/)
+* [Baidu FEX](http://fex.baidu.com/)
 * [Meituan](http://tech.meituan.com/)
+* [Taobao FED](http://taobaofed.org/)
+* [Tencent AlloyTeam](http://www.alloyteam.com/)
