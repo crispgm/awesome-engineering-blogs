@@ -13,6 +13,7 @@
 * [Code as Craft, Etsy's Engineering Blog](https://codeascraft.com/)
 * [Engineering at IFTTT](http://engineering.ifttt.com/)
 * [eBay Tech Blog](http://www.ebaytechblog.com/)
+* [Uber Engineering Blog](https://eng.uber.com/)
 
 ## Engineering Blogs in Chinese
 
