@@ -14,6 +14,21 @@
 * [Engineering at IFTTT](http://engineering.ifttt.com/)
 * [eBay Tech Blog](http://www.ebaytechblog.com/)
 * [Uber Engineering Blog](https://eng.uber.com/)
+* [Engineering at Quora](https://engineering.quora.com/)
+* [Foursquare Engineering Blog](http://engineering.foursquare.com/)
+* [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
+* [Groupon Engineering Blog](https://engineering.groupon.com/)
+* [Riot Games Engineering](https://engineering.riotgames.com/)
+* [Spotify's Engineering and Technology Blog](https://labs.spotify.com/)
+* [Artsy Engineering](http://artsy.github.io/)
+* [Box Engineering Blog](https://www.box.com/blog/engineering/)
+* [Heroku Engineering Blog](https://engineering.heroku.com/)
+* [Lyft Engineering](https://eng.lyft.com/)
+* [Cloudera Engineering Blog](http://blog.cloudera.com/)
+* [Stack Overflow Blog](https://blog.stackoverflow.com/engineering/)
+* [PayPal Engineering Blog](https://www.paypal-engineering.com/)
+* [The Netflix Tech Blog](http://techblog.netflix.com/)
+
 
 ## Engineering Blogs in Chinese
 
@@ -22,3 +37,8 @@
 * [Meituan](http://tech.meituan.com/)
 * [Taobao FED](http://taobaofed.org/)
 * [Tencent AlloyTeam](http://www.alloyteam.com/)
+
+# Contribution
+
+New entries is welcomed with PR or in Issues.
+
