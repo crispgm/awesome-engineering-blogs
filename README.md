@@ -1,5 +1,7 @@
 # Awesome Engineering Blogs
 
+[![Join the chat at https://gitter.im/crispgm/awesome-engineering-blogs](https://badges.gitter.im/crispgm/awesome-engineering-blogs.svg)](https://gitter.im/crispgm/awesome-engineering-blogs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * [Engineering Blog | Facebook Code](https://code.facebook.com/posts)
 * [Engineering | Twitter Blogs](https://blog.twitter.com/engineering)
 * [Google Developers Blog](http://googledevelopers.blogspot.com/)
