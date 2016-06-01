@@ -36,3 +36,7 @@
 # Contribution
 
 New entries is welcomed with PR or in Issues.
+
+# License
+
+[CC-BY](http://creativecommons.org/licenses/by/4.0/)
