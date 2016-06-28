@@ -1,5 +1,6 @@
 # Awesome Engineering Blogs
 
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 [![Join the chat at https://gitter.im/crispgm/awesome-engineering-blogs](https://badges.gitter.im/crispgm/awesome-engineering-blogs.svg)](https://gitter.im/crispgm/awesome-engineering-blogs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 * [Engineering Blog | Facebook Code](https://code.facebook.com/posts)
