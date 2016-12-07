@@ -30,6 +30,7 @@
 * [Stack Overflow Blog](https://blog.stackoverflow.com/engineering/)
 * [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 * [The Netflix Tech Blog](http://techblog.netflix.com/)
+* [WeWork Engineering](https://engineering.wework.com/)
 * [REA Group Tech Blog](http://rea.tech/)
 
 # Other Languages
