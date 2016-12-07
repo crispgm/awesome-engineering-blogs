@@ -31,6 +31,8 @@
 * [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 * [The Netflix Tech Blog](http://techblog.netflix.com/)
 * [WeWork Engineering](https://engineering.wework.com/)
+* [Atlassian Developers](https://developer.atlassian.com/blog/)
+* [KA Engineering (Khan Academy)](http://engineering.khanacademy.org/)
 * [REA Group Tech Blog](http://rea.tech/)
 
 # Other Languages
