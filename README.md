@@ -6,6 +6,7 @@
 * [Engineering Blog | Facebook Code](https://code.facebook.com/posts)
 * [Engineering | Twitter Blogs](https://blog.twitter.com/engineering)
 * [Google Developers Blog](http://googledevelopers.blogspot.com/)
+* [Google Research Blog](https://research.googleblog.com/)
 * [Instagram Engineering](http://instagram-engineering.tumblr.com/)
 * [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
 * [Airbnb Engineering - Nerds](http://nerds.airbnb.com/)
