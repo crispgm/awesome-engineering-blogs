@@ -19,7 +19,7 @@
 * [Uber Engineering Blog](https://eng.uber.com/)
 * [Engineering at Quora](https://engineering.quora.com/)
 * [Foursquare Engineering Blog](https://engineering.foursquare.com/)
-* [Yelp Engineering Blog](http://engineeringblog.yelp.com/)
+* [Yelp Engineering Blog](https://engineeringblog.yelp.com/)
 * [Groupon Engineering Blog](https://engineering.groupon.com/)
 * [Riot Games Engineering](https://engineering.riotgames.com/)
 * [Spotify's Engineering and Technology Blog](https://labs.spotify.com/)
