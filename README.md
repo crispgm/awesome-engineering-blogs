@@ -11,7 +11,7 @@
 * [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
 * [Airbnb Engineering - Nerds](http://nerds.airbnb.com/)
 * [Pinterest Engineering](https://engineering.pinterest.com/)
-* [GitHub Engineering](http://githubengineering.com/)
+* [GitHub Engineering](https://githubengineering.com/)
 * [Code as Craft, Etsy's Engineering Blog](https://codeascraft.com/)
 * [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
 * [Engineering at IFTTT](http://engineering.ifttt.com/)
