@@ -28,7 +28,7 @@
 * [Heroku Engineering Blog](https://blog.heroku.com/engineering)
 * [Lyft Engineering](https://eng.lyft.com/)
 * [Cloudera Engineering Blog](https://blog.cloudera.com/)
-* [Stack Overflow Blog](https://blog.stackoverflow.com/engineering/)
+* [Stack Overflow Blog](https://stackoverflow.blog/engineering/)
 * [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 * [The Netflix Tech Blog](http://techblog.netflix.com/)
 * [WeWork Engineering](https://engineering.wework.com/)
