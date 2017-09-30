@@ -25,7 +25,7 @@
 * [Spotify's Engineering and Technology Blog](https://labs.spotify.com/)
 * [Artsy Engineering](https://artsy.github.io/)
 * [Box Engineering Blog](https://www.box.com/blog/engineering/)
-* [Heroku Engineering Blog](https://engineering.heroku.com/)
+* [Heroku Engineering Blog](https://blog.heroku.com/engineering)
 * [Lyft Engineering](https://eng.lyft.com/)
 * [Cloudera Engineering Blog](http://blog.cloudera.com/)
 * [Stack Overflow Blog](https://blog.stackoverflow.com/engineering/)
