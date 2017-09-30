@@ -27,7 +27,7 @@
 * [Box Engineering Blog](https://www.box.com/blog/engineering/)
 * [Heroku Engineering Blog](https://blog.heroku.com/engineering)
 * [Lyft Engineering](https://eng.lyft.com/)
-* [Cloudera Engineering Blog](http://blog.cloudera.com/)
+* [Cloudera Engineering Blog](https://blog.cloudera.com/)
 * [Stack Overflow Blog](https://blog.stackoverflow.com/engineering/)
 * [PayPal Engineering Blog](https://www.paypal-engineering.com/)
 * [The Netflix Tech Blog](http://techblog.netflix.com/)
