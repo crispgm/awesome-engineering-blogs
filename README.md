@@ -23,7 +23,7 @@
 * [Groupon Engineering Blog](https://engineering.groupon.com/)
 * [Riot Games Engineering](https://engineering.riotgames.com/)
 * [Spotify's Engineering and Technology Blog](https://labs.spotify.com/)
-* [Artsy Engineering](http://artsy.github.io/)
+* [Artsy Engineering](https://artsy.github.io/)
 * [Box Engineering Blog](https://www.box.com/blog/engineering/)
 * [Heroku Engineering Blog](https://engineering.heroku.com/)
 * [Lyft Engineering](https://eng.lyft.com/)
