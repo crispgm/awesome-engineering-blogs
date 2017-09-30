@@ -35,6 +35,7 @@
 * [Atlassian Developers](https://developer.atlassian.com/blog/)
 * [KA Engineering (Khan Academy)](http://engineering.khanacademy.org/)
 * [REA Group Tech Blog](http://rea.tech/)
+* [Blendle Engineering](https://blendle.engineering/)
 
 # Other Languages
 
