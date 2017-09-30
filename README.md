@@ -5,7 +5,7 @@
 
 * [Engineering Blog | Facebook Code](https://code.facebook.com/posts)
 * [Engineering | Twitter Blogs](https://blog.twitter.com/engineering)
-* [Google Developers Blog](http://googledevelopers.blogspot.com/)
+* [Google Developers Blog](https://developers.googleblog.com/)
 * [Google Research Blog](https://research.googleblog.com/)
 * [Instagram Engineering](https://engineering.instagram.com/@InstagramEng)
 * [Blog | LinkedIn Engineering](https://engineering.linkedin.com/blog)
