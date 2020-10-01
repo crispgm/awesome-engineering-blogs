@@ -37,6 +37,7 @@
 * [REA Group Tech Blog](http://rea.tech/)
 * [Blendle Engineering](https://blendle.engineering/)
 * [Freshworks Inc. Engineering](https://medium.com/freshworks-engineering-blog/)
+* [Slack Engineering](https://slack.engineering/)
 
 # Other Languages
 
