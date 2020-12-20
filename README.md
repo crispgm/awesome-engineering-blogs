@@ -39,10 +39,6 @@
 * [Freshworks Inc. Engineering](https://medium.com/freshworks-engineering-blog/)
 * [Asana Engineering](https://blog.asana.com/category/eng/)
 
-# Other Languages
-
-* [Awesome Engineering Blogs in China](https://github.com/crispgm/awesome-engineering-blogs/blob/master/README-cn.md)
-
 # Contribution
 
 New entries is welcomed with PR or in Issues.
