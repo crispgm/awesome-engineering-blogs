@@ -38,6 +38,7 @@
 - [Blendle Engineering](https://blendle.engineering/)
 - [Freshworks Inc. Engineering](https://medium.com/freshworks-engineering-blog/)
 - [Asana Engineering](https://blog.asana.com/category/eng/)
+- [Slack Engineering](https://slack.engineering/)
 
 ## Contribution
 
