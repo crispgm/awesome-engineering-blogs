@@ -14,7 +14,7 @@
 - [GitHub Engineering](https://githubengineering.com/)
 - [Code as Craft, Etsy's Engineering Blog](https://codeascraft.com/)
 - [Dropbox Tech Blog](https://blogs.dropbox.com/tech/)
-- [Engineering at IFTTT](http://engineering.ifttt.com/)
+- [Engineering at IFTTT](https://medium.com/engineering-at-ifttt)
 - [eBay Tech Blog](http://www.ebaytechblog.com/)
 - [Uber Engineering Blog](https://eng.uber.com/)
 - [Engineering at Quora](https://engineering.quora.com/)
