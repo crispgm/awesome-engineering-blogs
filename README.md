@@ -42,6 +42,9 @@
 - [Instana Blog](https://www.instana.com/blog/)
 - [Salesforce Engineering](https://engineering.salesforce.com/)
 - [DoorDash Engineering](https://doordash.engineering/)
+- [Zomato Blog](https://blog.zomato.com/)
+- [Canva Blog](https://www.canva.dev/blog/engineering/)
+- [Docker Blog](https://www.docker.com/blog/)
 
 ## Contribution
 
