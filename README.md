@@ -42,10 +42,11 @@
 - [Instana Blog](https://www.instana.com/blog/)
 - [Salesforce Engineering](https://engineering.salesforce.com/)
 - [DoorDash Engineering](https://doordash.engineering/)
+- [Pulumi Blog](https://www.pulumi.com/blog/)
 
 ## Contribution
 
-New entries is welcomed with PR or in Issues.
+New entries are welcome with PR or in Issues.
 
 ## License
 
