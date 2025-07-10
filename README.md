@@ -44,6 +44,7 @@
 - [DoorDash Engineering](https://doordash.engineering/)
 - [Pulumi Blog](https://www.pulumi.com/blog/)
 - [Apartment 304 Engineering Blog](https://blog.apartment304.com/)
+- [Freshworks Engineering Blog](https://medium.com/freshworks-engineering-blog)
 
 ## Contribution
 
