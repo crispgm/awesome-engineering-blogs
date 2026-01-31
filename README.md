@@ -45,6 +45,7 @@
 - [Pulumi Blog](https://www.pulumi.com/blog/)
 - [Apartment 304 Engineering Blog](https://blog.apartment304.com/)
 - [PaskSoftware](https://pasksoftware.com/)
+- [PulseMark](https://pulsemark.ai)
 
 ## Contribution
 
